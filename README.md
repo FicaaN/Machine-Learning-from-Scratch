@@ -4,4 +4,4 @@ This repository contains (will contain) various machine learning algorithms impl
 
 ### Algorithms Implemented 👨🏻‍💻:
 - K-Nearest Neighbors (KNN)
-- Linear regression
+- Linear Regression
